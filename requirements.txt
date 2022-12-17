@@ -7,4 +7,6 @@ flask-jwt-extended
 passlib
 flask-migrate
 gunicorn
-psycopg2
+#psycopg2
+grpcio
+grpcio-tools

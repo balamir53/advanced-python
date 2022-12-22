@@ -10,3 +10,6 @@ gunicorn
 #psycopg2
 grpcio
 grpcio-tools
+cookiecutter
+cx_Oracle
+jupyter

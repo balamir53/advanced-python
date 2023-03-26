@@ -21,3 +21,4 @@ insomnia/
 multi-tenancy/
 oracle/
 cookiecutter/
+03-sqlachemy/*

@@ -17,3 +17,7 @@ etc/
 .idea/
 .ipynb_checkpoints/
 grpc/
+insomnia/
+multi-tenancy/
+oracle/
+cookiecutter/

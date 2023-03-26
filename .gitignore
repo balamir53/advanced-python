@@ -1,6 +1,18 @@
-/01-my-first-rest-api
-/02-flask-smorest
-/03-sqlalchemy
-/04-jwt
-/05-alembic
-/05-flask-migrate
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+01-my-first-rest-api/
+02-flask-smorest/
+03-sqlalchemy/
+04-jwt/
+05-alembic/
+05-flask-migrate/
+.venv/
+flask/
+cookiecutter/
+jupyter/
+etc/
+.idea/
+.ipynb_checkpoints/
